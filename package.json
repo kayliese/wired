@@ -8,6 +8,10 @@
     "vscode": "^1.85.0"
   },
   "icon": "images/wired-icon-transparent.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kayliese/wired.git"
+},
 	"keywords": [
 		"Themes",
 		"Pink",
