@@ -2,7 +2,7 @@
 
 The **wired** is a pink Visual Studio Code theme. You can download it from the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=minako.wired).
 
-<img alt="image" src="https://github.com/kayliese/wired/assets/49692061/c18aa6a8-d196-4a26-96b1-e65d44c4d186">
+<img alt="image" src="https://github.com/kayliese/wired/assets/49692061/10496aec-7f72-4c1b-9081-ce3f23e72c60">
 
 ## Installation
 

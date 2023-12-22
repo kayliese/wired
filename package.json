@@ -3,7 +3,7 @@
   "publisher": "minako",
   "displayName": "wired",
   "description": "a pink and dark color theme",
-  "version": "2.0.0",
+  "version": "2.0.2",
   "engines": {
     "vscode": "^1.85.0"
   },
