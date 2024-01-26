@@ -2,6 +2,7 @@
 
 ## 2.0.3  - 1/25/2023
 - added another brighter wired theme if the original is too dark
+- changed menu bars colors so it's easier to see
 
 ## 2.0.0 - 12/22/2023
 - Created new repo 
