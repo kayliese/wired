@@ -3,7 +3,7 @@
   "publisher": "minako",
   "displayName": "wired",
   "description": "a pink and dark color theme",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "engines": {
     "vscode": "^1.85.0"
   },
@@ -24,9 +24,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "wired",
+        "label": "Wired",
         "uiTheme": "vs-dark",
         "path": "./themes/wired-color-theme.json"
+      },
+      {
+        "label": "Wired Brighter",
+        "uiTheme": "vs-dark",
+        "path": "./themes/wired-lighter-color-theme.json"
       }
     ]
   }
